@@ -4,4 +4,6 @@
 
 Aby uzywac nalezy:
 * Pobierz materialy ze strony xyz
-* Urucho plik START
+* Uruchom plik START
+
+Copyright by TESTER TEAM
