@@ -34,7 +34,7 @@ class TestAndroidCreateWebSession():
         driver.get('https://www.google.com')
         title = driver.title
 
-        assert 'Apple' == title
+        assert 'Microsoft' == title
 
         with pytest.raises(InvalidSessionIdException) as excinfo:
             driver.title
